@@ -1,8 +1,42 @@
-# React + Vite
+# HooBank
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+HooBank is a modern banking web application built with React.js, Tailwind CSS, and Vite. The project showcases a responsive and clean UI design, focusing on user experience and performance.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Responsive Design**: Adapts to different screen sizes for optimal user experience.
+- **Fast Performance**: Built with Vite for fast bundling and development.
+- **Clean UI**: Minimalistic and user-friendly interface designed with Tailwind CSS.
+- **State Management**: Efficient state management using React hooks.
+
+## Tech Stack
+
+- **React.js**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **Vite**: A fast build tool for modern web projects.
+- **JavaScript (ES6+)**: The programming language used.
+
+## Installation
+
+
+1. **Install dependencies:**
+    ```bash
+    npm install
+    ```
+    or if you're using yarn:
+    ```bash
+    yarn
+    ```
+
+2. **Run the development server:**
+    ```bash
+    npm run dev
+    ```
+    or if you're using yarn:
+    ```bash
+    yarn dev
+    ```
+
+
+
+
